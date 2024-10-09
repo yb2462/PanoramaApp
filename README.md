@@ -16,12 +16,6 @@ or
 ```python
 python --version
 ```
-### 2. Install OpenCV (`cv2`)
-
-```bash
-pip3 install opencv-python`
-```
-
 
 ### 2. Install OpenCV ('cv2')
 ```bash
