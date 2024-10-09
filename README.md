@@ -9,6 +9,10 @@ You must have Python and OpenCV (`cv2`) installed on your computer. Follow the s
 If you don’t have Python installed, you can download it from the [official Python website](https://www.python.org/downloads/). After downloading, follow the installation instructions for your platform.
 
 To verify the installation, run the following command in your terminal:
+```python
+import cv2
+print(cv2.__version__)
+```
 ### 2. Install OpenCV (`cv2`)
 
 ```bash
