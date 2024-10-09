@@ -1,4 +1,4 @@
-""" The following function"""
+""" The following functions are the helper functions to run the app."""
 
 from pathlib import Path
 import numpy as np
