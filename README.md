@@ -10,8 +10,11 @@ If you don’t have Python installed, you can download it from the [official Pyt
 
 To verify the installation, run the following command in your terminal:
 ```python
-import cv2
-print(cv2.__version__)
+python3 --version
+```
+or
+```python
+python --version
 ```
 ### 2. Install OpenCV (`cv2`)
 
